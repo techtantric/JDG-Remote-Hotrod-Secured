@@ -1,0 +1,14 @@
+org/jboss/as/quickstarts/datagrid/hotrod/query/domain/Employee.class
+org/jboss/as/quickstarts/datagrid/hotrod/query/TcsNgaMS1Application.class
+org/jboss/as/quickstarts/datagrid/hotrod/query/AddressBookManager.class
+org/jboss/as/quickstarts/datagrid/hotrod/query/marshallers/PhoneNumberMarshaller.class
+org/jboss/as/quickstarts/datagrid/hotrod/query/AddressBookController.class
+org/jboss/as/quickstarts/datagrid/hotrod/query/domain/PhoneNumber.class
+org/jboss/as/quickstarts/datagrid/hotrod/query/domain/PhoneType.class
+org/jboss/as/quickstarts/datagrid/hotrod/query/domain/Person.class
+org/jboss/as/quickstarts/datagrid/hotrod/query/domain/Memo$Priority.class
+org/jboss/as/quickstarts/datagrid/hotrod/LoginHandler.class
+org/jboss/as/quickstarts/datagrid/hotrod/query/marshallers/PersonMarshaller.class
+org/jboss/as/quickstarts/datagrid/hotrod/query/marshallers/PhoneTypeMarshaller$1.class
+org/jboss/as/quickstarts/datagrid/hotrod/query/marshallers/PhoneTypeMarshaller.class
+org/jboss/as/quickstarts/datagrid/hotrod/query/domain/Memo.class

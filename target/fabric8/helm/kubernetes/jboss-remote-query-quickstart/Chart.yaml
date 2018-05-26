@@ -1,0 +1,14 @@
+---
+name: "jboss-remote-query-quickstart"
+home: "http://projects.spring.io/spring-boot/jboss-remote-query-quickstart/"
+sources:
+- "https://github.com/spring-projects/spring-boot/spring-boot-starter-parent/jboss-remote-query-quickstart"
+version: "7.0.0.Final-redhat-1"
+description: "Parent pom providing dependency and plugin management for applications\n\
+  \t\tbuilt with Maven"
+maintainers:
+- name: "Phillip Webb"
+  email: "pwebb at pivotal.io"
+- name: "Dave Syer"
+  email: "dsyer at pivotal.io"
+icon: "img/icons/spring-boot.svg"
